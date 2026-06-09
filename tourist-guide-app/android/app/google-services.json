@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115807481907",
+    "project_id": "tourist-app-4edc3",
+    "storage_bucket": "tourist-app-4edc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115807481907:android:bed3c522cd5e730414f346",
+        "android_client_info": {
+          "package_name": "com.example.tourist_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGMO_dSlzJ5ZpYjcCnZigSJ5lTHjPggIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
